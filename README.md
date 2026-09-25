@@ -4,8 +4,8 @@
 
 - `manifest.json`：图床索引，由卡片项目的 `node tools/make-image-index.mjs 图床` 生成。
 - `maps/`：手记地图原图（london 伦敦、mansus 漫宿、world 醒时世界）。
-- `portraits/`：20 位人物的立绘，用在手记的“此刻相逢”（640 宽 WebP）。
-- `avatars/`：对白框用的证件照式方形头像（256×256 WebP）。
+- `portraits/`：20 位人物的立绘，用在手记的“此刻相逢”（原图尺寸 832×1216，WebP）。
+- `avatars/`：对白框用的方形头像，从上半身证件照裁出（按裁剪框的原始像素，约 690–830 像素见方，WebP）。
 - 立绘与头像用 NovelAI Diffusion V5 生成。
 
 更新图片后重新生成 manifest.json 再提交。jsDelivr 会缓存一段时间（最长约 12 小时），急用可以打开 `https://purge.jsdelivr.net/gh/<用户名>/<仓库>@main/manifest.json` 刷新。
