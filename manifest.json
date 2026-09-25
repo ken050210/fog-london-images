@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "maps": {
+    "london": "maps/london.webp",
+    "mansus": "maps/mansus.webp",
+    "world": "maps/world.webp"
+  },
+  "characters": {}
+}
