@@ -5,5 +5,86 @@
     "mansus": "maps/mansus.webp",
     "world": "maps/world.webp"
   },
-  "characters": {}
+  "characters": {
+    "ada": {
+      "portrait": "portraits/ada.webp",
+      "avatar": "avatars/ada.webp"
+    },
+    "alma": {
+      "portrait": "portraits/alma.webp",
+      "avatar": "avatars/alma.webp"
+    },
+    "arthur": {
+      "portrait": "portraits/arthur.webp",
+      "avatar": "avatars/arthur.webp"
+    },
+    "beatrice": {
+      "portrait": "portraits/beatrice.webp",
+      "avatar": "avatars/beatrice.webp"
+    },
+    "edmund": {
+      "portrait": "portraits/edmund.webp",
+      "avatar": "avatars/edmund.webp"
+    },
+    "elaine": {
+      "portrait": "portraits/elaine.webp",
+      "avatar": "avatars/elaine.webp"
+    },
+    "elsie": {
+      "portrait": "portraits/elsie.webp",
+      "avatar": "avatars/elsie.webp"
+    },
+    "evelyn": {
+      "portrait": "portraits/evelyn.webp",
+      "avatar": "avatars/evelyn.webp"
+    },
+    "gideon": {
+      "portrait": "portraits/gideon.webp",
+      "avatar": "avatars/gideon.webp"
+    },
+    "helen": {
+      "portrait": "portraits/helen.webp",
+      "avatar": "avatars/helen.webp"
+    },
+    "jiang": {
+      "portrait": "portraits/jiang.webp",
+      "avatar": "avatars/jiang.webp"
+    },
+    "martin": {
+      "portrait": "portraits/martin.webp",
+      "avatar": "avatars/martin.webp"
+    },
+    "miriam": {
+      "portrait": "portraits/miriam.webp",
+      "avatar": "avatars/miriam.webp"
+    },
+    "nell": {
+      "portrait": "portraits/nell.webp",
+      "avatar": "avatars/nell.webp"
+    },
+    "nora": {
+      "portrait": "portraits/nora.webp",
+      "avatar": "avatars/nora.webp"
+    },
+    "rose": {
+      "portrait": "portraits/rose.webp",
+      "avatar": "avatars/rose.webp"
+    },
+    "selene": {
+      "portrait": "portraits/selene.webp",
+      "avatar": "avatars/selene.webp"
+    },
+    "thomas": {
+      "portrait": "portraits/thomas.webp",
+      "avatar": "avatars/thomas.webp"
+    },
+    "victor": {
+      "portrait": "portraits/victor.webp",
+      "avatar": "avatars/victor.webp"
+    },
+    "violet": {
+      "portrait": "portraits/violet.webp",
+      "avatar": "avatars/violet.webp"
+    }
+  }
 }
